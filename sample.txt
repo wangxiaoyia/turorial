@@ -1,4 +1,4 @@
 at first
 first change
 second change
-Git tracks changes
+Git tracks changes of files
