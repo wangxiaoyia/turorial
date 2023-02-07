@@ -1,3 +1,4 @@
 at first
 first change
 second change
+Git tracks changes
